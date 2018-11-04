@@ -13,7 +13,9 @@ p.centrado{
 }
 img.flota_izquierda{
   float: left;
+  width: 25%
 }
 p.flota_derecha{
   float: right;
+  width: 70%
 }
