@@ -1,0 +1,19 @@
+body{
+  font-family: arial
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: red
+}
+p.centrado{
+  text-align: center;
+}
+img.flota_izquierda{
+  float: left;
+}
+p.flota_derecha{
+  float: right;
+}
